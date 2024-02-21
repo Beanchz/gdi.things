@@ -1,2 +1,2 @@
-Kalarie v1.1.exe (noskid)
+Kalarie v1.1.exe safety (noskid)
 
